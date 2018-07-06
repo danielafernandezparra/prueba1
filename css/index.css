@@ -1,0 +1,57 @@
+body{
+	padding-top: 70px;
+}
+.row{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-brand{
+	width: 60%;
+	padding:5px;
+}
+.contacto{
+	list-style-type: none;
+}
+.fondo-gris {
+	background-color: #eaeaea;
+	margin-top: 75px;
+}
+.fondo-mapa{
+	padding: 25px;
+}
+.form-inline input.form-control{
+	width: 150px;
+}
+ol {
+	padding-bottom: 20px;
+}
+.tn-default{
+	text-align: center;
+}
+.site-header{
+	background-image: url("../images/nino.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 375px;
+	text-align: center;
+	padding-top: 100px;
+}
+.columnas .row .img-responsive {
+	height: 200px;
+}
+@media (max-width: 700px){
+	h1{
+		font-size: 20px;
+		padding-top: 10px !important;
+	}
+	.site-header{
+		height: 240px;
+	}
+
+}
+
+
+
+
+
+

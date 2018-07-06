@@ -1,0 +1,29 @@
+body{
+	padding-top: 50px;
+}
+h2	{
+	text-align: center;
+}
+.navbar-brand{
+	width: 60%;
+	padding:5px;
+}
+.contacto{
+	list-style-type: none;
+}
+.fondo-gris {
+	background-color: #eaeaea;
+	margin-top: 75px;
+}
+.fondo-mapa{
+	padding: 25px;
+}
+.form-inline input.form-control{
+	width: 150px;
+}
+ol {
+	padding-bottom: 20px;
+}
+.columnas .row .img-responsive {
+	height: 200px;
+}

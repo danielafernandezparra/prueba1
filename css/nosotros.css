@@ -1,0 +1,33 @@
+body {
+	padding-top: 50px;
+}
+.row{
+	width: 85%;
+	margin: 0px auto 20px;
+}
+p {
+	text-align: justify;
+}
+ul{
+	text-align: justify;
+}
+.navbar-brand{
+	width: 60%;
+	padding:5px;
+}
+.contacto{
+	list-style-type: none;
+}
+.fondo-gris {
+	background-color: #eaeaea;
+	margin-top: 75px;
+}
+.fondo-mapa{
+	padding: 25px;
+}
+.form-inline input.form-control{
+	width: 150px;
+}
+ol {
+	padding-bottom: 20px;
+}
